@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import BarChart from './components/Charts/BarChart';
+import DoughnutChart from './components/Charts/DoughnutChart';
 
 function App() {
   return (
     <div className="App">
-      <BarChart/>
+      <DoughnutChart/>
     </div>
   );
 }
