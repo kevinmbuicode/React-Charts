@@ -1,4 +1,3 @@
-import './App.css';
 //import PieChart from './components/Charts/PieChart';
 //import DoughnutChart from './components/Charts/DoughnutChart';
 //import BarChart from './components/Charts/BarChart';
